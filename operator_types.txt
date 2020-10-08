@@ -1,0 +1,5 @@
+BashOperator: execute a bash command
+PythonOperator: run a Python function
+PythonVirtualenvOperator: run a function in a virtual environment that is created and destroyed automatically
+BigQueryOperator: query and process data in BigQuery
+PapermillOperator: execute a Jupyter Notebook
